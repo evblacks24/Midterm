@@ -1,0 +1,56 @@
+.container {
+width: 80%;
+height: 35%;
+background-color: turquoise;
+position:absolute;
+border-radius: 10%;
+
+}
+
+.box1{
+width: 120px;
+height:120px;
+background-color: azure;
+border: 3px solid green;
+border-radius: 10%;
+position: relative;
+top: 45px;
+left: 15px;
+
+}
+
+.box2{
+width: 120px;
+height:120px;
+background-color: azure;
+border: 3px solid green;
+border-radius: 10%;
+position: relative;
+top: -80px;
+right: -175px;
+    
+}
+
+.box3{
+    width: 120px;
+    height:120px;
+    background-color: azure;
+    border: 3px solid green;
+    border-radius: 10%;
+    position: relative;
+    top: -205px;
+    right: -335px;
+    
+}
+
+.box4{
+width: 120px;
+height:120px;
+background-color: azure;
+border: 3px solid green;
+border-radius: 10%;
+position: absolute;
+top: 65px;
+left: 505px;
+
+}
